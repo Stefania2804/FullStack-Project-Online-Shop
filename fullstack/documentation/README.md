@@ -1,4 +1,3 @@
-````md
 # SoftPrim Full-Stack Technical Exercise
 
 Mini aplicatie full-stack pentru afisarea unui catalog de produse, dezvoltata folosind React, Node.js, Express si MySQL.
@@ -331,6 +330,3 @@ Se pot adauga capturi de ecran cu:
 
 * varianta desktop
 * varianta responsive/mobile
-
-```
-```
